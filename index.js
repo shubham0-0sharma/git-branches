@@ -9,7 +9,3 @@ console.log("LINE 5");
 console.log("LINE 5");
 console.log("LINE 5");
 console.log("LINE 5");
-console.log("LINE 5");
-console.log("LINE 5");
-console.log("LINE 5");
-console.log("LINE 5");
